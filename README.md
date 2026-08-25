@@ -15,6 +15,6 @@ libros que gestiona inventario, clientes y ventas. Incluye:
   primarias/foráneas y multiplicidades.
 
 ## Contenido
-- `Examen_Tienda_Libros.docx` — documento completo con las tres partes.
+- `Examen_Tienda_Libros_jose_ignacio.docx` — documento completo con las tres partes.
 - `diagramas/conceptual_er.png` — diagrama conceptual E-R.
 - `diagramas/uml_er.png` — diagrama UML E-R.
